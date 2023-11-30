@@ -4,9 +4,7 @@
 
 ## Overview
 
-
-##### This GitHub repository houses a simple yet powerful NFT (Non-Fungible Token) minting website that leverages the InterPlanetary File System (IPFS) through the ThirdWeb service. With this implementation, users can easily create and mint their own unique NFTs, ensuring decentralization and immutability by storing the associated data on the IPFS network. The repository provides a user-friendly interface for minting NFTs, making it an ideal starting point for developers and enthusiasts exploring the intersection of decentralized technologies and digital asset creation.
----
+This GitHub repository houses a simple yet powerful NFT (Non-Fungible Token) minting website that leverages the InterPlanetary File System (IPFS) through the ThirdWeb service. With this implementation, users can easily create and mint their own unique NFTs, ensuring decentralization and immutability by storing the associated data on the IPFS network. The repository provides a user-friendly interface for minting NFTs, making it an ideal starting point for developers and enthusiasts exploring the intersection of decentralized technologies and digital asset creation.---
 
 ## Table of Contents
 
