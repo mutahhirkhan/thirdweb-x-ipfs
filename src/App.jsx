@@ -57,7 +57,7 @@ function App() {
 
   return (
     <>
-      <div>Hi! how are? 🙂</div>
+      <div>Hi! how are you? 🙂</div>
       <ConnectWallet />
       {isConnected ? (
         <div>
